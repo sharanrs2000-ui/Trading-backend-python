@@ -1,0 +1,5 @@
+fastapi
+yfinance
+scikit-learn
+pandas
+uvicorn
